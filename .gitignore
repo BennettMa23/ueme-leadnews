@@ -1,0 +1,11 @@
+# Project exclude paths
+/ueme-leadnews-basic/ueme-file-starter/target/
+/ueme-leadnews-common/target/
+/ueme-leadnews-feign-api/target/
+/ueme-leadnews-gateway/ueme-leadnews-app-gateway/target/
+/ueme-leadnews-model/target/
+/ueme-leadnews-service/ueme-leadnews-article/target/
+/ueme-leadnews-service/ueme-leadnews-user/target/
+/ueme-leadnews-test/freemarker-demo/target/
+/ueme-leadnews-test/minio-demo/target/
+/ueme-leadnews-utils/target/
